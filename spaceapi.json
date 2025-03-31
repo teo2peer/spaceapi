@@ -1,0 +1,24 @@
+{
+  "api": "0.13",
+  "space": "Hackerspace Castellón",
+  "logo": "https://wiki.hackerspaces.org/images/6/6a/Logo_hackcs.png",
+  "url": "https://hackcs.uji.es",
+  "location": {
+    "address": "Despacho TI2018SD, Escuela Superior de Tecnologia I Ciencias Experimentales, Avinguda de Vicent Sos Baynat, Universitat Jaume I, s/n, 12006 Castellón de la Plana, Castellón",
+    "lat": 39.99309468712874, 
+    "lon": -0.0690225746221299
+  },
+  "state": {
+    "open": false,
+    "lastchange": 0,
+    "trigger_person": "ESP32 Bot",
+    "message": "Estado inicial"
+  },
+  "contact": {
+    "email": "hackcs@hackcs.org",
+    "twitter": "@hackCS"
+  },
+  "issue_report_channels": [
+    "email"
+  ]
+}
