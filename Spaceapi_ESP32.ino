@@ -8,7 +8,7 @@ const int switchPin = 12;
 const int ledGreen = 13;
 const int ledRed = 14;
 
-bool lastState = false;
+bool lastState = true;
 
 // URL que actualizará el estado (puede ser la Space API tuya si tienes endpoint)
 const char* serverUrl = "https://webhook.site/d53a47eb-031b-4891-95ee-f93a98288ee4";
